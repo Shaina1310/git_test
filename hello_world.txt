@@ -1,1 +1,6 @@
 Hello Odin !
+Commande:
+To see what is in the staging area = git status
+To add a file in the staging area = git add <file name> / git add . 
+To commit an adding = git commit -m "Add <file name>"
+To commit a modification = git commint -m "Edit <file name>"
